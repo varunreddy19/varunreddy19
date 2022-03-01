@@ -11,8 +11,8 @@ Hey, I am Varun Reddy, a student at Northwest Missouri State University pursuing
   * HRSM
 * Java
 * HTML
-* Phython
-* ML
+* Java Script
+* Spring Boot
 
 
 
