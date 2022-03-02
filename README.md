@@ -7,7 +7,7 @@ Hey, I am Varun Reddy, a student at Northwest Missouri State University pursuing
 ### Interested Technologies
 * Servicenow
   * ITSM
-  * ITOM
+  * Integrations
   * HRSM
 * Java
 * HTML
