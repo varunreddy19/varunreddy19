@@ -2,17 +2,20 @@
 # Varun Reddy Pathuri
 ### Aspiring Full-stack Developer
 
-Hey, I am Varun Reddy, a student at Northwest Missouri State University pursuing my Masters in Applied Computer Science. I worked as a ServiceNow Developer in Dxc Technology company for 2 years and I am enthusiastic to learn Full-stack Developement.
+Software Engineer specializing in full-stack Java development and microservices. Coordinated agile teams to deliver distributed
+applications, migrated enterprise systems from Java 8 to Java 17 with Spring Boot upgrades, and modernized front-end with Angular
+while integrating AWS S3 workflows. Skilled in Docker, Kubernetes, CI/CD pipelines with Jenkins, and RESTful APIs, seeking to
+contribute robust, scalable solutions in cloud-native environments.
 
 ### Interested Technologies
-* Servicenow
-  * ITSM
-  * Integrations
-  * HRSM
+
 * Java
-* HTML
-* Java Script
+* JavaScript
 * Spring Boot
+* AWS
+* Kafka
+* 
+
 
 
 
